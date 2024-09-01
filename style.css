@@ -93,7 +93,7 @@ body{
 
 .course-card img
 {
-  width: 100%;
+  width: 110%;
   height: 50%;
 }
 
@@ -130,8 +130,15 @@ body{
 
 .popular
 {
-  padding: 20px;
+  padding: 30px;
+  justify-content: space-around;
 }
+.popular__card img
+{
+  width: 90%;
+  height: 50%;
+}
+
 .popular__container
 {
   display: flex;
